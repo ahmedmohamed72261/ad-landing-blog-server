@@ -1,1 +1,1 @@
-# ad-landing-blog-server
+# blogs-server
